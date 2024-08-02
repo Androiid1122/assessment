@@ -1,0 +1,35 @@
+
+Name : Richard Yaw Anderson
+End Of Month Assessment
+
+1.b
+2.g
+3.j
+4.b
+5.d
+6.c
+7.a
+8.d
+9.c
+10.a
+11.d
+
+Theory
+Git is a version control system that is used to handle small and large project efficently. Thus it important because it helps the developer to be able to track changes been made on the project at a given time and allows for multiple collabration.
+
+Various steps / commands you'll will use to create frontend/backend project
+a. create a new email and user
+git config --global user.email
+git config --global user.name
+b. check to see if your account is creaetd 
+git --config list
+c.create a directory to contain the project
+d.Navigate into the directory
+cd /path/project
+e.Initialize the repository
+git init
+f. Add files to the repository
+git add .
+g.Commit files added and use comment to describe your commit
+git commit "creating a frontend/backend project"
+
